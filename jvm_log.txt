@@ -1,0 +1,49 @@
+[Wed Aug 19 03:48:17 CET 2026] Program started.
+[Wed Aug 19 03:48:17 CET 2026] JAM [Alpha Development Build] v80.077 (nightly)
+[Wed Aug 19 03:48:17 CET 2026] OS: Windows 10 (amd64) | JVM: 25.0.3
+[Wed Aug 19 03:48:18 CET 2026] [COVERS] Current mode: FILESYSTEM
+[Wed Aug 19 03:48:18 CET 2026] [PYTHON] Launching Aiohttp Engine...
+[Wed Aug 19 03:48:19 CET 2026] [PYTHON] Waiting for engine to initialize...
+[Wed Aug 19 03:48:20 CET 2026] [DB] Database current version: 18
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: COMICAZEN
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: COMIX
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: COOLMIC
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: COREVIEW
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: EPSILON
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: FLATMANGA
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: FOOLSLIDE
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: HIPERDEX
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: KAGANE
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MADARA
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MAGUSTOON
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGACHERRI
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGADEX
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAFIRE
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAGO
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAK
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAPLAZA
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAPLUS
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAREADERCMS
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGASTREAM
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANGAWORLD
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANHWAREAD
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MANTA
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: MGREAD
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: PIZZAREADER
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: REIMANGA
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: SAKURAMANGAS
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: SOFTKOMIK
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: TAPPYTOON
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: TEMPLETOONS
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: TOONILY
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: WEBCOMICSAPP
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: WEBTOONS
+[Wed Aug 19 03:48:20 CET 2026] [PLUGIN] Loaded successfully: WEEBCENTRAL
+[Wed Aug 19 03:48:21 CET 2026] [PYTHON] Server is online and ready.
+[Wed Aug 19 03:48:51 CET 2026] Download started for Pillow Talk [Full ver.] - Episode 6
+[Wed Aug 19 03:48:53 CET 2026] [PYTHON] WARNING 03:48:53 — Estratti con successo 101 cookie dal profilo.
+[Wed Aug 19 03:48:53 CET 2026] Account token successfully identified and set.
+[Wed Aug 19 03:48:54 CET 2026] Token refreshed successfully.
+[Wed Aug 19 03:48:54 CET 2026] 110 pages found for Pillow Talk [Full ver.] - Episode 6
+[Wed Aug 19 03:50:39 CET 2026] Error! Unable to detect the extension for the image file download at: https://si.mantacdn.net/2026-06-29/Yg/YgfPaRCoNOp8fkEZ.jpg?sign=1787106600-6600-0-c833e19c746ad6b2bd0fdbdf584c6551. Usually this mean that the server returned HTML code instead of the image file or simply the image is corrupted.
+[Wed Aug 19 03:50:39 CET 2026] Download procedure ended for Pillow Talk [Full ver.] - Episode 6
